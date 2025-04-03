@@ -1,4 +1,4 @@
-# sonarsource-apihub-admin-scripts
+# SmartBear API Hub Admin Scripts
 Admin scripts for API Hub
 
 Required Dependencies: jq
